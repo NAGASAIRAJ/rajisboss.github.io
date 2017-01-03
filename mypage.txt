@@ -1,0 +1,27 @@
+<html>
+<head>my webpage<title>basic tags</title></head>
+<body bgcolor="/f1f2f3">
+<marquee>THIS IS RAJ</marquee>
+<h1 align="center" kiet college</h1><br</br>
+<strong>computer science</strong>
+<b>welcome to tcs</b><br></br>
+<i>plz bring ur taplops</i><br></br>
+<u>classes hours 80mints</u><br></br>
+<p><big>This is my first webpage.This webpage is indicates the all basic html tags<big></p>
+<blockquote>This is my first webpage.This webpage is indicates the all basic html tags</blockquote>
+<ul>
+<h1>web technologies</h1><br></br>
+<li>HTML</li><br></br>
+<li>CSS</li><br></br>
+<li>PHP</li><br></br>
+<li>C#</li><br></br>
+<li>PERL</li><br></br>
+<li>RUBY</li></ul>
+<ul><strong>SP HABITS</strong><br></br>
+<li>EATING</li><br></br>
+<li>SLEEPING</li><br></br>
+<li>EATING</li><br><br>
+<li>SLEPPING ALWAYS</li>
+<ul>
+</body>
+</html>
